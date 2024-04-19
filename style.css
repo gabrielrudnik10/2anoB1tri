@@ -23,7 +23,7 @@ body {
 }
 
 .cabecalho-lista-item{       
-    text-emphasis-color: red black;        
+    text-emphasis-color: red;        
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
