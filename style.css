@@ -56,7 +56,7 @@ body {
 }
 
 .rodape{
-    background-color: black;
+    background-color: linear-gradient(#000000,#f81616);
     text-align: center;
 }
 
@@ -64,5 +64,4 @@ body {
     width: 10%;
     height: 60px;
     padding: 12px 0;
-    background-color: linear-gradient(#000000,#f81616);
-}
+}    
